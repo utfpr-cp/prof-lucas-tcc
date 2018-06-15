@@ -1,5 +1,5 @@
 # prof-lucas-tcc
-Repositório com instruções para os orientandos de estágio, tcc e ic do Professor Lucas Dias Hiera Sampaio - Créditos do Modelo: Prof. Diogo Cézar Batista.
+Repositório com instruções para os orientandos de estágio, tcc e ic do Professor Lucas Dias Hiera Sampaio - Créditos do Modelo: Prof. Diogo Cezar.
 
 # Quer ser meu orientando?
 
